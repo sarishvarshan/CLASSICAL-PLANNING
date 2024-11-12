@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-### Name: Rakshitha J
-### Roll no: 212223240135
+### Name: Sarish Varshan V
+### Roll no: 212223230196
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
