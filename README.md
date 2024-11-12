@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-### Name: Sarish Varshan V
-### Roll no: 212223230196
+### Name: Sanjay V
+### Roll no: 212223230188
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
